@@ -21,4 +21,4 @@ smooth run through.
 
 This code is run through McMaster University's Quanser Interactive Labs.
 
-Licensed under the MIT License
+Licensed under the [MIT License](LICENSE)
