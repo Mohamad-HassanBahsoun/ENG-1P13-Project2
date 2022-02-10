@@ -1,8 +1,8 @@
 # ENG-1P13-Project2
 The use of remote surgery or remote mentoring of physicians could be a potential solution to the
-problem that people living in rural and remote areas of Canada have few accesses to basic healthcare. 
+problem that, people living in rural and remote areas of Canada have few accesse to basic healthcare. 
 
-An important task in surgery is sterilization of equipment used in order to remove microbes, spores and viruses.
+An important task in surgery is sterilization of equipment which is used in order to remove microbes, spores and viruses.
 Sterilization is commonly performed by autoclaves; a process where instruments are placed in a container that
 allows exposure to pressurized steam. 
 
@@ -21,4 +21,4 @@ smooth run through.
 
 This code is run through McMaster University's Quanser Interactive Labs.
 
-
+Licensed under the MIT License
